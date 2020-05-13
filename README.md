@@ -7,7 +7,7 @@ To run:
 ----------
 javac  src/main/java/HappyTeams.java 
 
-java -cp src/main/java HappyTeams -t 3 -v 2 -n 1 -l 1000 -r 4 -p 6 < choice/testFinal.txt
+java -cp src/main/java HappyTeams -t 3 -v 2 -n 5 -l 500 -r 4 -p 6 < choice/testFinal.txt
 
   -t = teamsize (how big each team will be)
 
