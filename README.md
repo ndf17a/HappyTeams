@@ -31,4 +31,5 @@ Happiness is gained by having somone in a persons preference list in that person
 Happiness is lost if some loses a person from their team that they want.
 (This only happens if a combination that gives higher happiness is found)
 
+*(because this is random swapping the outcome may slightly vary)*
 ![](image.PNG)
