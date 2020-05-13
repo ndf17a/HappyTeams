@@ -28,4 +28,4 @@ Outputs names placed in teams in the command prompt with Total Happiness of the 
 Happiness is gained by having somone in a persons preference list in that persons team at the end.
 
 Happiness is lost if some loses a person from their team that they want.
-(This only happens somone is found that gives higher happiness)
+(This only happens if a combination that gives higher happiness is found)
