@@ -4,11 +4,11 @@ Priority Team Picking
 This program recieves a few commands from the command line to put together teams from a given file with names and their preferences.
 
 To run:
-
+----------
 javac  src/main/java/HappyTeams.java 
 
 java -cp src/main/java HappyTeams -t 3 -v 2 -n 1 -l 1000 -r 4 -p 6 < choice/testFinal.txt
----------------------------------------
+
   -t = teamsize (how big each team will be)
 
   -v = verbosity (how much is outputted 0-4)
