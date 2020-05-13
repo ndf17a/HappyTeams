@@ -5,7 +5,7 @@ This program recieves a few commands from the command line to put together teams
 
 To run:
 
-javac  src/main/java/HappyTeams.java\n
+javac  src/main/java/HappyTeams.java \n
 java -cp src/main/java HappyTeams -t 3 -v 2 -n 1 -l 1000 -r 4 -p 6 < choice/testFinal.txt
 
 -t = teamsize (how big each team will be)
